@@ -1,5 +1,7 @@
-# Convert any image to sketch with Python
 # Welcome to Code Kudos.
+
+# Convert any image to sketch with Python
+
 
 ## Dependency
 - Python
